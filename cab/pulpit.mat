@@ -1,0 +1,3 @@
+shader: reflmap
+texture_diffuse: cab/pulpit
+texture_reflmap: cab/pulpit_n
